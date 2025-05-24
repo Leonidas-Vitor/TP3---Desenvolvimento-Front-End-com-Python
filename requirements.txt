@@ -64,7 +64,7 @@ stack-data==0.6.3
 streamlit==1.37.1
 tenacity==8.5.0
 toml==0.10.2
-tornado==6.4.1
+tornado==6.5
 traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
